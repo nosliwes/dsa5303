@@ -1,4 +1,6 @@
-# dsa5303
-Financial Engineering Analytics
+# Stock Price Trend Prediction Using Evolutionary Learning
+## Data Science 5303 - Financial Engineering Analytics
 
-Final Project Files
+This repository contains all files for the final project in Data Science 5303 - Financial Engineering Analytics
+
+
